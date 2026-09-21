@@ -10,6 +10,7 @@ I'm a UX/UI designer with a background in psychology and business administration
 
 ### Flexidule
 Investigated how rigid scheduling affects users' planning behavior and designed a flexible goal-planning experience that balances autonomy and accountability.
+
 Link to Flexidule: https://www.flexidule.com/
 
 <p align="center">
