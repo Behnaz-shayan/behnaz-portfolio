@@ -1,27 +1,38 @@
 # Behnaz Korzebor — UX/UI Portfolio
 
-🔗 **Live site:** [https://behnaz-shayan.github.io/behnaz-portfolio/](https://behnaz-shayan.github.io/behnaz-portfolio/)
+🔗 **Live site:** [behnaz-shayan.github.io/behnaz-portfolio](https://behnaz-shayan.github.io/behnaz-portfolio/)
 
-A UX/UI design portfolio showcasing case studies in user research, interaction design, and iterative prototyping.
+A UX/UI design portfolio showcasing case studies in user research, interaction design, and iterative prototyping — from e-commerce trust and conversion, to service-marketplace onboarding, to responsive product design across devices.
 
-## Case Studies
+---
 
-- **Etsy** — Investigated how trust cues influence purchasing decisions and redesigned the product page to address credibility issues contributing to cart abandonment.
-- **SeeWalls** — Explored how service providers create online listings and designed a user-centered posting workflow that simplifies the submission process.
-- **Campkit** — Designed a responsive camping platform by considering users' goals, navigation patterns, and contextual needs across devices.
-- **Flexidule** — Investigated how rigid scheduling affects users' planning behavior and designed a flexible goal-planning experience that balances autonomy and accountability.
+### Etsy
+![Etsy case study](images/etsy-cover.jpg)
 
-## Pages
+Investigated how trust cues influence purchasing decisions and redesigned the product page to address credibility issues contributing to cart abandonment.
 
-| Page | File |
-|---|---|
-| Home | `index.html` |
-| About | `about.html` |
-| Etsy | `etsy.html` |
-| SeeWalls | `seewalls.html` |
-| Campkit | `campkit.html` |
-| Flexidule | `flexidule.html` |
-| Resume | `resume.pdf` |
+---
+
+### SeeWalls
+![SeeWalls case study](images/seewalls-cover.jpg)
+
+Explored how service providers create online listings and designed a user-centered posting workflow that simplifies the submission process.
+
+---
+
+### Campkit
+![Campkit case study](images/campkit-cover.jpg)
+
+Designed a responsive camping platform by considering users' goals, navigation patterns, and contextual needs across devices.
+
+---
+
+### Flexidule
+![Flexidule case study](images/flexidule-cover.jpg)
+
+Investigated how rigid scheduling affects users' planning behavior and designed a flexible goal-planning experience that balances autonomy and accountability.
+
+---
 
 ## Contact
 
