@@ -9,22 +9,26 @@ I'm a UX/UI designer with a background in psychology and business administration
 
 
 ### Flexidule
+Investigated how rigid scheduling affects users' planning behavior and designed a flexible goal-planning experience that balances autonomy and accountability.
 Link to Flexidule: https://www.flexidule.com/
 
 <p align="center">
   <img src="images/flexidule-cover.jpg" alt="Flexidule case study" width="500">
 </p>
 
-Investigated how rigid scheduling affects users' planning behavior and designed a flexible goal-planning experience that balances autonomy and accountability.
 
 ---
 
 
 ### SeeWalls
+Explored how service providers create online listings and designed a user-centered posting workflow that simplifies the submission process.
+
+Link to SeeWalls: https://seewalls.com/
+
 <p align="center">
   <img src="images/seewalls-cover.jpg" alt="SeeWalls case study" width="500">
 </p>
-Explored how service providers create online listings and designed a user-centered posting workflow that simplifies the submission process.
+
 
 ---
 
