@@ -34,20 +34,22 @@ Link to SeeWalls: https://seewalls.com/
 
 
 ### Etsy
+Investigated how trust cues influence purchasing decisions and redesigned the product page to address credibility issues contributing to cart abandonment.
+
 <p align="center">
   <img src="images/etsy-cover.jpg" alt="Etsy case study" width="500">
 </p>
-Investigated how trust cues influence purchasing decisions and redesigned the product page to address credibility issues contributing to cart abandonment.
 
 ---
 
 
 
 ### Campkit
+Designed a responsive camping platform by considering users' goals, navigation patterns, and contextual needs across devices.
+
 <p align="center">
   <img src="images/campkit-cover.jpg" alt="Campkit case study" width="500">
 </p>
-Designed a responsive camping platform by considering users' goals, navigation patterns, and contextual needs across devices.
 
 ---
 
