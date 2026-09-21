@@ -1,8 +1,9 @@
 ### Behnaz Korzebor — UX/UI Portfolio
 
-### 🔗 **Live site:** [behnaz-shayan.github.io/behnaz-portfolio](https://behnaz-shayan.github.io/behnaz-portfolio/)
 
-A UX/UI design portfolio showcasing case studies in user research, interaction design, and iterative prototyping — from e-commerce trust and conversion, to service-marketplace onboarding, to responsive product design across devices.
+I'm a UX/UI designer with a background in psychology and business administration, bringing a research-first approach to every project I take on. My work sits at the intersection of human behavior and digital product design, using qualitative research, usability testing, and iterative prototyping to uncover not just what users do, but why they do it. This portfolio walks through four case studies that reflect that range: investigating the trust cues that drive (or block) purchasing decisions on e-commerce platforms, designing onboarding workflows for service providers entering a marketplace for the first time, building a responsive camping platform that adapts to different user goals and devices, and rethinking flexible scheduling tools to balance autonomy with accountability. Across each project, the throughline is the same: translating research insight into interfaces that feel intuitive, trustworthy, and genuinely useful.
+
+### 🔗 **Link to my Portfolio:** [behnaz-shayan.github.io/behnaz-portfolio](https://behnaz-shayan.github.io/behnaz-portfolio/)
 
 ---
 
