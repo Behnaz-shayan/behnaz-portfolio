@@ -13,7 +13,7 @@ Investigated how rigid scheduling affects users' planning behavior and designed 
 Link to Flexidule: https://www.flexidule.com/
 
 <p align="center">
-  <img src="images/flexidule-cover.jpg" alt="Flexidule case study" width="500">
+  <img src="images/flexidule-cover.jpg" alt="Flexidule case study" width="700">
 </p>
 
 
@@ -26,7 +26,7 @@ Explored how service providers create online listings and designed a user-center
 Link to SeeWalls: https://seewalls.com/
 
 <p align="center">
-  <img src="images/seewalls-cover.jpg" alt="SeeWalls case study" width="500">
+  <img src="images/seewalls-cover.jpg" alt="SeeWalls case study" width="700">
 </p>
 
 
@@ -48,7 +48,7 @@ Investigated how trust cues influence purchasing decisions and redesigned the pr
 Designed a responsive camping platform by considering users' goals, navigation patterns, and contextual needs across devices.
 
 <p align="center">
-  <img src="images/campkit-cover.jpg" alt="Campkit case study" width="500">
+  <img src="images/campkit-cover.jpg" alt="Campkit case study" width="700">
 </p>
 
 ---
