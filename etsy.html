@@ -88,3 +88,26 @@
   });
 })();
 </script>
+
+<script id="portfolio-related-projects-fix">
+(function(){
+  var map = {
+    'Campkit': 'campkit.html',
+    'Etsy': 'etsy.html',
+    'Flexidule': 'flexidule.html',
+    'SeeWalls': 'seewalls.html'
+  };
+  document.querySelectorAll('.related-projects-container .related-project').forEach(function(card){
+    var img = card.querySelector('img[alt]');
+    var name = img ? img.getAttribute('alt').trim() : '';
+    var target = map[name];
+    if (target) {
+      card.style.cursor = 'pointer';
+      card.addEventListener('click', function(e){
+        e.preventDefault();
+        window.location.href = target;
+      });
+    }
+  });
+})();
+</script>
